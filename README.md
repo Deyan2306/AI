@@ -1,7 +1,7 @@
 # Artificial Inteligence Learning
 ----
 
-* This repo contains the following SoftUni courses:
+This repo contains the following SoftUni courses:
 * Math Concepts for Developers - March 2023
 * Data Science - June 2023
 * Machine Learning - September 2023
